@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <div class="hero-left">
+        <h1 class="artist-name">Silvia</h1>
+    
+
+                <div class="social-links">
+  <a href="https://www.linkedin.com/in/silvia-chen46/" target="_blank">
+    <!-- LinkedIn -->
+    <svg viewBox="0 0 24 24" width="24" height="24">
+      <path fill="currentColor"
+        d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.86 0-2.15 1.45-2.15 2.94v5.67H9.33V9h3.42v1.56h.05c.48-.9 1.66-1.85 3.42-1.85 3.65 0 4.32 2.4 4.32 5.52v6.22zM5.34 7.43a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14zM6.97 20.45H3.71V9h3.26v11.45z"/>
+    </svg>
+  </a>
+
+  <a href="https://www.instagram.com/silvia.0546/" target="_blank">
+    <!-- Instagram -->
+    <svg viewBox="0 0 24 24" width="24" height="24">
+      <path fill="currentColor"
+        d="M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5h10c2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5H7zm5 5a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm6.5-.75a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0zM12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"/>
+    </svg>
+  </a>
+</div>
+        <p class="artist-about">
+          Hi, I'm a junior major in Math&CS at UIUC.
+          I create illustration and digital painting work.
+          This archive collects my random pieces across different moods and themes.
+        </p>
+      </div>
+      <div class="hero-right">
+        <div class="filter-bar" id="filterBar"></div>
+      </div>
+    </header>
+
+    <main>
+      <section class="works-list" id="worksList"></section>
+    </main>
+  </div>
+
+ <div class="lightbox hidden" id="lightbox">
+  <button class="lightbox-close" id="lightboxClose" aria-label="Close">&times;</button>
+  <div class="lightbox-inner">
+    <div class="lightbox-image-block">
+      <img id="lightboxImg" src="" alt="Artwork preview" />
+    </div>
+    <div class="lightbox-side">
+      <div class="lightbox-meta" id="lightboxMeta"></div>
+    </div>
+  </div>
+</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
