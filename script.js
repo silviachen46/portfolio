@@ -103,7 +103,7 @@ const works = [
   },
   {
     image: "images/inori.jpg",
-    tags: ["digi art"],
+    tags: ["digi art", "fan art"],
     description: "Medalist 金牌得主 结束祈"
   },
   {
@@ -173,7 +173,7 @@ const works = [
   },
   {
     image: "images/sword.jpg",
-    tags: ["digi art"],
+    tags: ["digi art", "fan art"],
   },
   {
     image: "images/three.jpg",
@@ -188,7 +188,7 @@ const works = [
   },
   {
     image: "images/wolf.jpg",
-    tags: ["digi art"],
+    tags: ["digi art", "fan art"],
     description:"人狼游戏2 桦山由佳&万田丽子",
     video: "https://www.bilibili.com/video/BV1c64y1C7u6/?spm_id_from=333.337.search-card.all.click"
   },
