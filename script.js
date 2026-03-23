@@ -60,6 +60,7 @@ const works = [
    {
     image: "images/cny.jpg",
     tags: ["digi art"],
+    description: "马年年画2026"
   },
   {
     image: "images/dance.jpg",
