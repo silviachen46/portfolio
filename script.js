@@ -2,7 +2,7 @@ const works = [
   {
     image: "images/student3.jpg",
     tags: ["digi art"],
-    music: "https://open.spotify.com/embed/album/6H0PLsSYMzDOqhLgyOlzIj"
+    music: "https://open.spotify.com/embed/track/6H0PLsSYMzDOqhLgyOlzIj"
   },
   {
     image: "images/black.jpg",
