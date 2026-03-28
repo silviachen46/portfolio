@@ -1,5 +1,10 @@
 const works = [
   {
+    image: "images/dance2.jpg",
+    tags: ["digi art"],
+    music: "https://open.spotify.com/embed/track/6jhupo3u5l6PIVRNdqrVJT"
+  },
+  {
     image: "images/student3.jpg",
     tags: ["digi art"],
     music: "https://open.spotify.com/embed/track/6H0PLsSYMzDOqhLgyOlzIj"
