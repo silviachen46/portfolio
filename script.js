@@ -7,7 +7,7 @@ const works = [
   {
     image: "images/student4.jpg",
     tags: ["digi art"],
-    music: "https://open.spotify.com/embed/track/3zOaaimVK0UqFTBOrvmqXQ",
+    music: "https://open.spotify.com/embed/track/2XeNKyXw3Gd9m9Y7mw0rF9",
     description: "太阳宫印象"
   },
   {
