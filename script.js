@@ -1,4 +1,15 @@
 const works = [
+    {
+    image: "images/leaves.jpg",
+    tags: ["digi art"],
+    video: "https://www.youtube.com/watch?v=bGHutNWmDzk"
+  },
+  {
+    image: "images/student4.jpg",
+    tags: ["digi art"],
+    music: "https://open.spotify.com/embed/track/3zOaaimVK0UqFTBOrvmqXQ",
+    description: "太阳宫印象"
+  },
   {
     image: "images/sunflower.jpg",
     tags: ["digi art"],
