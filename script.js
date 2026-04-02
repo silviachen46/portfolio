@@ -1,4 +1,9 @@
 const works = [
+  {
+    image: "images/friends.jpg",
+    tags: ["digi art"],
+    description:"一个杭州人和两个北京人",
+  },
     {
     image: "images/leaves.jpg",
     tags: ["digi art"],
