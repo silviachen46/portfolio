@@ -1,5 +1,17 @@
 const works = [
   {
+    image: "images/rain.jpg",
+    tags: ["digi art"],
+  },
+   {
+    image: "images/tree.jpg",
+    tags: ["digi art"],
+  },
+  {
+    image: "images/mirrow.jpg",
+    tags: ["digi art"],
+  },
+  {
     image: "images/friends.jpg",
     tags: ["digi art"],
     description:"一个杭州人和两个北京人",
