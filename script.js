@@ -8,7 +8,7 @@ const works = [
     tags: ["digi art"],
   },
   {
-    image: "images/mirrow.jpg",
+    image: "images/mirror.jpg",
     tags: ["digi art"],
   },
   {
